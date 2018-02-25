@@ -1,3 +1,5 @@
+## no critic (Subroutines::ProhibitReturnSort)
+
 package Color::Theme::Role;
 
 # DATE
