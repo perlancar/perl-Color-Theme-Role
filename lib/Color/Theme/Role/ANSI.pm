@@ -104,3 +104,9 @@ convert color theme to ANSI color escape codes.
 When converting to ANSI code, will consult C<color_depth> from
 L<Term::App::Role::Attr>.
 
+
+=head2 SEE ALSO
+
+L<Color::Theme::Util::ANSI>
+
+L<Color::Theme>
